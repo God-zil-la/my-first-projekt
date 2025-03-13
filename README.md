@@ -102,7 +102,7 @@ Go to your repository settings on GitHub.
 
 Scroll to the GitHub Pages section and select the main branch as the source.
 
-The site will be hosted at https://yourusername.github.io/3d-printing-website/.
+The site will be hosted at https://God-zil-la.github.io/3d-printing-website/.
 
 Deploying on Netlify:
 
