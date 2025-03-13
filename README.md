@@ -62,7 +62,7 @@ Download or Clone the Repository:
 
 Use Git to clone the repository:
 
-git clone [https://github.com/yourusername/3d-printing-website.git](https://github.com/God-zil-la/my-first-projekt.git)
+git clone [https://github.com/God-zil-la/3d-printing-website.git](https://github.com/God-zil-la/my-first-projekt.git)
 
 Alternatively, download the project as a ZIP file and extract it.
 
